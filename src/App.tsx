@@ -37,7 +37,7 @@ function App() {
         }}
       >
         <div className="text-center flex flex-col gap-5 m-auto md:mx-20">
-          <h1 className="font-family t-quote text-white bg-black bg-opacity-90 rounded-md p-10 text-lg md:text-3xl">
+          <h1 className="font-family t-quote text-white bg-black bg-opacity-90 rounded-md p-10 text-2xl md:text-3xl">
             "{quote}"
           </h1>
 
