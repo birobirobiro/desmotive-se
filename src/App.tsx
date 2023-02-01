@@ -12,7 +12,7 @@ function App() {
     setQuote(_.sample(quotes) || "");
   });
 
-  ReactGA.initialize("G-LH6JR7P6N3");
+  ReactGA.initialize("G-VLQLCTD3R8");
   ReactGA.send({
     hitType: "pageview",
     page: window.location.pathname + window.location.search,
