@@ -58,7 +58,7 @@ function App() {
           </TwitterShareButton>
         </div>
 
-        <a className="text-sm text-white bg-black bg-opacity-90 rounded-md p-2 mt-3" href="https://birobirobiro.dev">birobirobiro.dev</a>
+        <a className="text-sm text-white bg-black bg-opacity-90 rounded-md p-2 mt-3" href="https://birobirobiro.dev" target="_blank">birobirobiro.dev</a>
       </div>
     </>
   );
