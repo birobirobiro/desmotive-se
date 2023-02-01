@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Niconne+Fatface&family=Courgette&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Tillana&display=swap');
 
 .f-handwritten,
 .update-button {
@@ -11,5 +11,5 @@
 }
 
 .t-quote {
-  font-family: "Niconne", cursive;
+  font-family: 'Tillana', cursive;
 }
