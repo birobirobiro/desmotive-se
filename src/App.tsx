@@ -52,9 +52,9 @@ function App() {
             className="m-auto mt-0 flex content-center space-x-2 align-middle"
             title={`"${quote}" 
               \nvia: `}
-            url={"#"}
+            url={"https://desmotiveme.vercel.app/"}
           >
-            <TwitterIcon size={32} borderRadius={10} /><span className="m-auto text-white f-handwritten text-lg">Compartilhe para desmotivar mais devs.</span>
+            <TwitterIcon size={32} borderRadius={10} /><span className="m-auto text-white f-handwritten text-lg">Compartilhe para desmotivar outros devs.</span>
           </TwitterShareButton>
         </div>
 
