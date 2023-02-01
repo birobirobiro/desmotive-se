@@ -54,11 +54,11 @@ function App() {
               \nvia: `}
             url={"https://desmotive-se.vercel.app/"}
           >
-            <TwitterIcon size={32} borderRadius={10} /><span className="m-auto text-white f-handwritten text-lg">Compartilhe para desmotivar outros devs</span>
+            <TwitterIcon size={32} borderRadius={10} /><span className="m-auto text-white f-handwritten text-l">Compartilhe para desmotivar outros devs</span>
           </TwitterShareButton>
         </div>
 
-        <a className="text-sm text-white bg-black bg-opacity-90 rounded-md p-2 mt-3" href="https://birobirobiro.dev" target="_blank">birobirobiro.dev</a>
+        <a className="text-sm text-white bg-black bg-opacity-80 rounded-md p-2 mt-3" href="https://birobirobiro.dev" target="_blank">birobirobiro.dev</a>
       </div>
     </>
   );
